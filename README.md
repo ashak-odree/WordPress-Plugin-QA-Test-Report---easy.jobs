@@ -250,10 +250,27 @@ easy-jobs-WordPress-Plugin-QA-Test-Report/
 
 [![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## **Connect with Me at**
+---
 
-[![ashakuzzaman odree](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/ashak.odree/)
-[![ashak_odree](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://www.instagram.com/ashak_odree/)
-[![ashakuzzaman odree](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/ashak-odree/)
-[![@ashak_odree](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/ashak_odree)
-[![Ashak Odree](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/channel/UCs8Y7diPmTt-yyjkv0k7SpQ)
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## <b>Connect with Me at</b>
+<br>
+<div align='center'>
+
+
+
+
+
+<a href="https://www.facebook.com/ashak.odree/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashakuzzaman odree" height="30" width="40" /></a>
+
+
+<a href="https://www.instagram.com/ashak_odree/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashak_odree" height="30" width="40" /></a>
+
+
+<a href="https://www.linkedin.com/in/ashak-odree/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashakuzzaman odree" height="30" width="40" /></a>

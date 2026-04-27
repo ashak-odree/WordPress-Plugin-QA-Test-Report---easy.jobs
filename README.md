@@ -248,12 +248,10 @@ easy-jobs-WordPress-Plugin-QA-Test-Report/
 
 ---
 
-[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
----
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 ## <b>Connect with Me at</b>
@@ -274,3 +272,12 @@ easy-jobs-WordPress-Plugin-QA-Test-Report/
 
 <a href="https://www.linkedin.com/in/ashak-odree/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashakuzzaman odree" height="30" width="40" /></a>
+
+
+<a href="https://twitter.com/ashak_odree" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ashak_odree" height="30" width="40" /></a>
+	
+<a href="https://www.youtube.com/channel/UC8_-lmRrTG990jkiQ7pFsUw" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ashak Odree" height="30" width="40" /></a>	
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
